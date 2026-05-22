@@ -13,6 +13,7 @@ authors:
     given-names: "Dimitrios"
     affiliation: "University of California, Berkeley"
 repository-code: "https://github.com/ioannis-vm/Residual_Drift_Paper_Files"
+doi: "10.5281/zenodo.20349909"
 abstract: "Source code, scripts, and supporting data for reproducing residual-drift modeling results associated with the paper 'A Robust Residual Drift Model for Performance-Based Earthquake Engineering'."
 keywords:
   - residual drift
