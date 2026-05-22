@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper and software repository."
+title: "Residual Drift Paper Files"
+type: software
+authors:
+  - family-names: "Vouvakis Manousakis"
+    given-names: "Ioannis"
+    affiliation: "University of California, Berkeley"
+  - family-names: "Zsarnóczay"
+    given-names: "Ádám"
+    affiliation: "Stanford University"
+  - family-names: "Konstantinidis"
+    given-names: "Dimitrios"
+    affiliation: "University of California, Berkeley"
+repository-code: "https://github.com/ioannis-vm/Residual_Drift_Paper_Files"
+abstract: "Source code, scripts, and supporting data for reproducing residual-drift modeling results associated with the paper 'A Robust Residual Drift Model for Performance-Based Earthquake Engineering'."
+keywords:
+  - residual drift
+  - residual story drift ratio
+  - peak story drift ratio
+  - performance-based earthquake engineering
+  - FEMA P-58
+  - OpenSees
+  - seismic risk
+license: "MIT"
+
+preferred-citation:
+  type: article
+  title: "A Robust Residual Drift Model for Performance-Based Earthquake Engineering"
+  authors:
+    - family-names: "Vouvakis Manousakis"
+      given-names: "Ioannis"
+      affiliation: "University of California, Berkeley"
+    - family-names: "Zsarnóczay"
+      given-names: "Ádám"
+      affiliation: "Stanford University"
+    - family-names: "Konstantinidis"
+      given-names: "Dimitrios"
+      affiliation: "University of California, Berkeley"
+  journal: "Earthquake Spectra"
+  year: 2026
