@@ -1,0 +1,47 @@
+To retrieve the time series for the selected ground motions, follow the instructions below. 
+ 
+Go to the following link: ngawest2.berkeley.edu 
+ 
+Select "No Scaling" and click submit. Enter RSN values (separated by commas) provided below under "Record Characteristics", and click Search Records. Download time series at the bottom of the resulting page by clicking "Download Time Series Records". 
+ 
+Record Number 	 Record Sequence Number 	 Scale Factor 	 File Name Dir. 1 	 File Name Dir. 2 	 URL 1 	 URL 2 
+1 	 5820 	   4.83 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+2 	 1590 	   1.93 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+3 	 471 	   4.77 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+4 	 1427 	   4.53 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+5 	 744 	   2.46 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+6 	 5796 	   4.40 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+7 	 1303 	   3.89 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+8 	 760 	   3.74 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+9 	 1026 	   4.05 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+10 	 725 	   1.02 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+11 	 962 	   4.31 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+12 	 5857 	   4.25 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+13 	 3674 	   1.83 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+14 	 5986 	   4.11 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+15 	 2467 	   2.89 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+16 	 1339 	   4.37 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+17 	 4865 	   1.84 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+18 	 1784 	   3.81 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+19 	 573 	   2.37 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+20 	 167 	   3.39 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+21 	 1762 	   2.31 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+22 	 1605 	   0.94 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+23 	 5272 	   4.12 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+24 	 1794 	   1.76 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+25 	 1314 	   4.58 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+26 	 6923 	   0.94 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+27 	 68 	   2.78 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+28 	 1294 	   2.01 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+29 	 2739 	   3.32 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+30 	 4071 	   1.40 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+31 	 3744 	   1.53 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+32 	 1512 	   0.97 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+33 	 3845 	   1.60 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+34 	 956 	   2.38 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+35 	 5270 	   2.55 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+36 	 1158 	   1.24 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+37 	 1628 	   2.96 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+38 	 8062 	   3.22 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+39 	 158 	   1.63 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 
+40 	 1119 	   0.43 	  	  	 ngawest2.berkeley.edu 	 ngawest2.berkeley.edu 

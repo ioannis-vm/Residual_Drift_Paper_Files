@@ -1,0 +1,9 @@
+	Mean UCERF3 Presets: FM3.1 Branch Averaged	Background Seismicity: Include	Treat Background Seismicity As: Point Sources	Fault Grid Spacing: 1.0	Aseismicity Reduces Area: true	Apply Aftershock Filter: false	Aleatory Mag-Area StdDev: 0.0	Probability Model: Poisson	Sect Upper Depth Averaging Tolerance: 100.0	Use Mean Upper Depth: true	Rup Mag Averaging Tolerance: 1.0	Rupture Rake To Use: Def. Model Mean	Fault Model(s): FM3_1	Ignore Cache: falseUpdated Duration: 1.0GMM: NGAWest2 2014 Averaged Attenuation RelationshipSite location: 37.87100, -122.25900, 0.00000Vs30 = 260.0, Vs30 Type = Inferred, Depth 2.5 km/sec = N/A, Depth 1.0 km/sec = N/A
+
+  Mbar = 7.1939945
+  Dbar = 4.930449
+  Ebar = 1.6356902
+
+  7.25 ≤ Mmode < 7.75
+  0.0 ≤ Dmode < 10.0
+1.0 < Emode <= 2.0

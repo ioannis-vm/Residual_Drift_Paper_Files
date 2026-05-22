@@ -1,0 +1,43 @@
+# ----------------------------
+# FONT (keep exactly as before)
+# ----------------------------
+font.family: serif
+font.size: 8
+mathtext.fontset: cm
+
+# ----------------------------
+# AXES (only reviewer changes)
+# ----------------------------
+axes.spines.top: False
+axes.spines.right: False
+axes.linewidth: 0.5
+
+# Do NOT force axes.labelsize etc — let them inherit from font.size
+
+
+# ----------------------------
+# GRID (reviewer tweak only)
+# ----------------------------
+axes.grid: True
+axes.grid.which: both
+grid.linestyle: --
+grid.linewidth: 0.3
+grid.alpha: 0.35
+
+# ----------------------------
+# LINES / MARKERS (leave mostly default)
+# ----------------------------
+lines.linewidth: 1.0
+
+# ----------------------------
+# FIGURE / SAVE (keep defaults)
+# ----------------------------
+# Do NOT force DPI unless needed
+# (this is a common source of “everything looks bigger”)
+# figure.dpi: 300
+# savefig.dpi: 300
+
+# ----------------------------
+# LATEX (optional, unchanged)
+# ----------------------------
+text.latex.preamble: \usepackage{amsmath,amssymb}
